@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <name>KAPSA Penezenka - Vicebarevna</name>
+    <ean>08593085165372</ean>
+    <sku>KAPSA-001-VIC</sku>
+    <stock>6</stock>
+    <price_with_vat>649.00</price_with_vat>
+    <price_without_vat>536.36</price_without_vat>
+    <vat>21</vat>
+  </product>
+  <product>
+    <name>KAPSA Penezenka - Oranzova</name>
+    <ean>08593085165310</ean>
+    <sku>KAPSA-001-ORA</sku>
+    <stock>4</stock>
+    <price_with_vat>649.00</price_with_vat>
+    <price_without_vat>536.36</price_without_vat>
+    <vat>21</vat>
+  </product>
+  <product>
+    <name>KAPSA Penezenka - Modra</name>
+    <ean>08593085165365</ean>
+    <sku>KAPSA-001-MOD</sku>
+    <stock>8</stock>
+    <price_with_vat>649.00</price_with_vat>
+    <price_without_vat>536.36</price_without_vat>
+    <vat>21</vat>
+  </product>
+  <product>
+    <name>KAPSA Penezenka - Cerna</name>
+    <ean>08593085165327</ean>
+    <sku>KAPSA-001-CRN</sku>
+    <stock>9</stock>
+    <price_with_vat>649.00</price_with_vat>
+    <price_without_vat>536.36</price_without_vat>
+    <vat>21</vat>
+  </product>
+  <product>
+    <name>KAPSA Penezenka - Zlata</name>
+    <ean>08593085165334</ean>
+    <sku>KAPSA-001-ZLA</sku>
+    <stock>10</stock>
+    <price_with_vat>649.00</price_with_vat>
+    <price_without_vat>536.36</price_without_vat>
+    <vat>21</vat>
+  </product>
+  <product>
+    <name>KAPSA Penezenka - Stribrna</name>
+    <ean>08593085165303</ean>
+    <sku>KAPSA-001-STR</sku>
+    <stock>10</stock>
+    <price_with_vat>649.00</price_with_vat>
+    <price_without_vat>536.36</price_without_vat>
+    <vat>21</vat>
+  </product>
+  <product>
+    <name>KAPSA Penezenka - Cervena</name>
+    <ean>08593085165358</ean>
+    <sku>KAPSA-001-CER</sku>
+    <stock>8</stock>
+    <price_with_vat>649.00</price_with_vat>
+    <price_without_vat>536.36</price_without_vat>
+    <vat>21</vat>
+  </product>
+  <product>
+    <name>KAPSA Penezenka - Zelena</name>
+    <ean>08593085165341</ean>
+    <sku>KAPSA-001-ZEL</sku>
+    <stock>8</stock>
+    <price_with_vat>649.00</price_with_vat>
+    <price_without_vat>536.36</price_without_vat>
+    <vat>21</vat>
+  </product>
+</products>
