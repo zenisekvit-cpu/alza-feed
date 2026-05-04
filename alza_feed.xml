@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <!-- KAPSA Peněženka -->
+  <product>
+    <code>KAPSA-001-VIC</code>
+    <stock>6</stock>
+    <price>649.00</price>
+  </product>
+  <product>
+    <code>KAPSA-001-ORA</code>
+    <stock>4</stock>
+    <price>649.00</price>
+  </product>
+  <product>
+    <code>KAPSA-001-MOD</code>
+    <stock>8</stock>
+    <price>649.00</price>
+  </product>
+  <product>
+    <code>KAPSA-001-CRN</code>
+    <stock>9</stock>
+    <price>649.00</price>
+  </product>
+  <product>
+    <code>KAPSA-001-ZLA</code>
+    <stock>10</stock>
+    <price>649.00</price>
+  </product>
+  <product>
+    <code>KAPSA-001-STR</code>
+    <stock>10</stock>
+    <price>649.00</price>
+  </product>
+  <product>
+    <code>KAPSA-001-CER</code>
+    <stock>8</stock>
+    <price>649.00</price>
+  </product>
+  <product>
+    <code>KAPSA-001-ZEL</code>
+    <stock>8</stock>
+    <price>649.00</price>
+  </product>
+</products>
