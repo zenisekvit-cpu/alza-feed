@@ -4,7 +4,7 @@
     <name>KAPSA Penezenka - Vicebarevna</name>
     <ean>08593085165372</ean>
     <sku>KAPSA-001-VIC</sku>
-    <stock>6</stock>
+    <stock>4</stock>
     <price_with_vat>649.00</price_with_vat>
     <price_without_vat>536,36</price_without_vat>
     <vat>21</vat>
@@ -13,7 +13,7 @@
     <name>KAPSA Penezenka - Oranzova</name>
     <ean>08593085165310</ean>
     <sku>KAPSA-001-ORA</sku>
-    <stock>4</stock>
+    <stock>3</stock>
     <price_with_vat>649.00</price_with_vat>
     <price_without_vat>536,36</price_without_vat>
     <vat>21</vat>
@@ -22,7 +22,7 @@
     <name>KAPSA Penezenka - Modra</name>
     <ean>08593085165365</ean>
     <sku>KAPSA-001-MOD</sku>
-    <stock>8</stock>
+    <stock>7</stock>
     <price_with_vat>649.00</price_with_vat>
     <price_without_vat>536,36</price_without_vat>
     <vat>21</vat>
@@ -31,7 +31,7 @@
     <name>KAPSA Penezenka - Cerna</name>
     <ean>08593085165327</ean>
     <sku>KAPSA-001-CRN</sku>
-    <stock>9</stock>
+    <stock>7</stock>
     <price_with_vat>649.00</price_with_vat>
     <price_without_vat>536,36</price_without_vat>
     <vat>21</vat>
@@ -49,7 +49,7 @@
     <name>KAPSA Penezenka - Stribrna</name>
     <ean>08593085165303</ean>
     <sku>KAPSA-001-STR</sku>
-    <stock>10</stock>
+    <stock>6</stock>
     <price_with_vat>649.00</price_with_vat>
     <price_without_vat>536,36</price_without_vat>
     <vat>21</vat>
@@ -58,7 +58,7 @@
     <name>KAPSA Penezenka - Cervena</name>
     <ean>08593085165358</ean>
     <sku>KAPSA-001-CER</sku>
-    <stock>8</stock>
+    <stock>6</stock>
     <price_with_vat>649.00</price_with_vat>
     <price_without_vat>536,36</price_without_vat>
     <vat>21</vat>
