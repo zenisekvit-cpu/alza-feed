@@ -4,7 +4,7 @@
     <name>KAPSA Penezenka - Vicebarevna</name>
     <ean>08593085165372</ean>
     <sku>KAPSA-001-VIC</sku>
-    <stock>4</stock>
+    <stock>3</stock>
     <price_with_vat>649.00</price_with_vat>
     <price_without_vat>536,36</price_without_vat>
     <vat>21</vat>
@@ -31,7 +31,7 @@
     <name>KAPSA Penezenka - Cerna</name>
     <ean>08593085165327</ean>
     <sku>KAPSA-001-CRN</sku>
-    <stock>7</stock>
+    <stock>5</stock>
     <price_with_vat>649.00</price_with_vat>
     <price_without_vat>536,36</price_without_vat>
     <vat>21</vat>
