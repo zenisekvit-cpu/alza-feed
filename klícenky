@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <name>KAPSA Klicenka - Duha</name>
+    <ean>08593085165389</ean>
+    <sku>KAPSA-KL-VIC</sku>
+    <stock>6</stock>
+    <price_with_vat>449.00</price_with_vat>
+    <price_without_vat>371,07</price_without_vat>
+    <vat>21</vat>
+  </product>
+  <product>
+    <name>KAPSA Klicenka - Zlata</name>
+    <ean>8594237140001</ean>
+    <sku>KAPSA-KL-ZLA</sku>
+    <stock>9</stock>
+    <price_with_vat>449.00</price_with_vat>
+    <price_without_vat>371,07</price_without_vat>
+    <vat>21</vat>
+  </product>
+  <product>
+    <name>KAPSA Klicenka - Zelena</name>
+    <ean>08594237140018</ean>
+    <sku>KAPSA-KL-ZEL</sku>
+    <stock>8</stock>
+    <price_with_vat>449.00</price_with_vat>
+    <price_without_vat>371,07</price_without_vat>
+    <vat>21</vat>
+  </product>
+  <product>
+    <name>KAPSA Klicenka - Modra</name>
+    <ean>08594237140025</ean>
+    <sku>KAPSA-KL-MOD</sku>
+    <stock>7</stock>
+    <price_with_vat>449.00</price_with_vat>
+    <price_without_vat>371,07</price_without_vat>
+    <vat>21</vat>
+  </product>
+  <product>
+    <name>KAPSA Klicenka - Cerna</name>
+    <ean>08593085165396</ean>
+    <sku>KAPSA-KL-CRN</sku>
+    <stock>9</stock>
+    <price_with_vat>449.00</price_with_vat>
+    <price_without_vat>371,07</price_without_vat>
+    <vat>21</vat>
+  </product>
+  <product>
+    <name>KAPSA Klicenka - Cervena</name>
+    <ean>08594237140032</ean>
+    <sku>KAPSA-KL-CER</sku>
+    <stock>5</stock>
+    <price_with_vat>449.00</price_with_vat>
+    <price_without_vat>371,07</price_without_vat>
+    <vat>21</vat>
+  </product>
+</products>
