@@ -58,7 +58,7 @@
     <name>KAPSA Penezenka - Cervena</name>
     <ean>08593085165358</ean>
     <sku>KAPSA-001-CER</sku>
-    <stock>2</stock>
+    <stock>1</stock>
     <price_with_vat>649.00</price_with_vat>
     <price_without_vat>536,36</price_without_vat>
     <vat>21</vat>
@@ -67,7 +67,7 @@
     <name>KAPSA Penezenka - Zelena</name>
     <ean>08593085165341</ean>
     <sku>KAPSA-001-ZEL</sku>
-    <stock>4</stock>
+    <stock>0</stock>
     <price_with_vat>649.00</price_with_vat>
     <price_without_vat>536,36</price_without_vat>
     <vat>21</vat>
