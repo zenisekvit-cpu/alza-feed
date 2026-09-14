@@ -5,35 +5,35 @@
     <ean>08593085165372</ean>
     <sku>KAPSA-001-VIC</sku>
     <stock>0</stock>
-    <price_with_vat>649.00</price_with_vat>
-    <price_without_vat>536,36</price_without_vat>
+    <price_with_vat>790.00</price_with_vat>
+    <price_without_vat>652,89</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
     <name>KAPSA Penezenka - Oranzova</name>
     <ean>08593085165310</ean>
     <sku>KAPSA-001-ORA</sku>
-    <stock>6</stock>
-    <price_with_vat>649.00</price_with_vat>
-    <price_without_vat>536,36</price_without_vat>
+    <stock>10</stock>
+    <price_with_vat>790.00</price_with_vat>
+    <price_without_vat>652,89</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
     <name>KAPSA Penezenka - Modra</name>
     <ean>08593085165365</ean>
     <sku>KAPSA-001-MOD</sku>
-    <stock>0</stock>
-    <price_with_vat>649.00</price_with_vat>
-    <price_without_vat>536,36</price_without_vat>
+    <stock>10</stock>
+    <price_with_vat>790.00</price_with_vat>
+    <price_without_vat>652,89</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
     <name>KAPSA Penezenka - Cerna</name>
     <ean>08593085165327</ean>
     <sku>KAPSA-001-CRN</sku>
-    <stock>0</stock>
-    <price_with_vat>649.00</price_with_vat>
-    <price_without_vat>536,36</price_without_vat>
+    <stock>30</stock>
+    <price_with_vat>790.00</price_with_vat>
+    <price_without_vat>652,89</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -41,35 +41,35 @@
     <ean>08593085165334</ean>
     <sku>KAPSA-001-ZLA</sku>
     <stock>6</stock>
-    <price_with_vat>649.00</price_with_vat>
-    <price_without_vat>536,36</price_without_vat>
+    <price_with_vat>790.00</price_with_vat>
+    <price_without_vat>652,89</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
     <name>KAPSA Penezenka - Stribrna</name>
     <ean>08593085165303</ean>
     <sku>KAPSA-001-STR</sku>
-    <stock>0</stock>
-    <price_with_vat>649.00</price_with_vat>
-    <price_without_vat>536,36</price_without_vat>
+    <stock>40</stock>
+    <price_with_vat>790.00</price_with_vat>
+    <price_without_vat>652,89</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
     <name>KAPSA Penezenka - Cervena</name>
     <ean>08593085165358</ean>
     <sku>KAPSA-001-CER</sku>
-    <stock>0</stock>
-    <price_with_vat>649.00</price_with_vat>
-    <price_without_vat>536,36</price_without_vat>
+    <stock>10</stock>
+    <price_with_vat>790.00</price_with_vat>
+    <price_without_vat>652,89</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
     <name>KAPSA Penezenka - Zelena</name>
     <ean>08593085165341</ean>
     <sku>KAPSA-001-ZEL</sku>
-    <stock>0</stock>
-    <price_with_vat>649.00</price_with_vat>
-    <price_without_vat>536,36</price_without_vat>
+    <stock>10</stock>
+    <price_with_vat>790.00</price_with_vat>
+    <price_without_vat>652,89</price_without_vat>
     <vat>21</vat>
   </product>
    <product>
@@ -77,8 +77,8 @@
     <ean>08593085165389</ean>
     <sku>KAPSA-KL-VIC</sku>
     <stock>0</stock>
-    <price_with_vat>449.00</price_with_vat>
-    <price_without_vat>371,07</price_without_vat>
+    <price_with_vat>590.00</price_with_vat>
+    <price_without_vat>487,60</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -86,8 +86,8 @@
     <ean>8594237140001</ean>
     <sku>KAPSA-KL-ZLA</sku>
     <stock>5</stock>
-    <price_with_vat>449.00</price_with_vat>
-    <price_without_vat>371,07</price_without_vat>
+    <price_with_vat>590.00</price_with_vat>
+    <price_without_vat>487,60</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -95,8 +95,8 @@
     <ean>08594237140018</ean>
     <sku>KAPSA-KL-ZEL</sku>
     <stock>5</stock>
-    <price_with_vat>449.00</price_with_vat>
-    <price_without_vat>371,07</price_without_vat>
+    <price_with_vat>590.00</price_with_vat>
+    <price_without_vat>487,60</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -104,8 +104,8 @@
     <ean>08594237140025</ean>
     <sku>KAPSA-KL-MOD</sku>
     <stock>1</stock>
-    <price_with_vat>449.00</price_with_vat>
-    <price_without_vat>371,07</price_without_vat>
+    <price_with_vat>590.00</price_with_vat>
+    <price_without_vat>487,60</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -113,8 +113,8 @@
     <ean>08593085165396</ean>
     <sku>KAPSA-KL-CRN</sku>
     <stock>0</stock>
-    <price_with_vat>449.00</price_with_vat>
-    <price_without_vat>371,07</price_without_vat>
+    <price_with_vat>590.00</price_with_vat>
+    <price_without_vat>487,60</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -122,8 +122,8 @@
     <ean>08594237140032</ean>
     <sku>KAPSA-KL-CER</sku>
     <stock>2</stock>
-    <price_with_vat>449.00</price_with_vat>
-    <price_without_vat>371,07</price_without_vat>
+    <price_with_vat>590.00</price_with_vat>
+    <price_without_vat>487,60</price_without_vat>
     <vat>21</vat>
   </product> 
 </products>
