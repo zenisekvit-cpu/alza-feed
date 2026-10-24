@@ -5,8 +5,8 @@
     <ean>08593085165372</ean>
     <sku>KAPSA-001-VIC</sku>
     <stock>0</stock>
-    <price_with_vat>790.00</price_with_vat>
-    <price_without_vat>652,89</price_without_vat>
+    <price_with_vat>690.00</price_with_vat>
+    <price_without_vat>570.25</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -14,8 +14,8 @@
     <ean>08593085165310</ean>
     <sku>KAPSA-001-ORA</sku>
     <stock>10</stock>
-    <price_with_vat>790.00</price_with_vat>
-    <price_without_vat>652,89</price_without_vat>
+    <price_with_vat>690.00</price_with_vat>
+    <price_without_vat>570.25</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -23,8 +23,8 @@
     <ean>08593085165365</ean>
     <sku>KAPSA-001-MOD</sku>
     <stock>10</stock>
-    <price_with_vat>790.00</price_with_vat>
-    <price_without_vat>652,89</price_without_vat>
+    <price_with_vat>690.00</price_with_vat>
+    <price_without_vat>570.25</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -32,8 +32,8 @@
     <ean>08593085165327</ean>
     <sku>KAPSA-001-CRN</sku>
     <stock>30</stock>
-    <price_with_vat>790.00</price_with_vat>
-    <price_without_vat>652,89</price_without_vat>
+    <price_with_vat>690.00</price_with_vat>
+    <price_without_vat>570.25</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -41,8 +41,8 @@
     <ean>08593085165334</ean>
     <sku>KAPSA-001-ZLA</sku>
     <stock>6</stock>
-    <price_with_vat>790.00</price_with_vat>
-    <price_without_vat>652,89</price_without_vat>
+    <price_with_vat>690.00</price_with_vat>
+    <price_without_vat>570.25</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -50,8 +50,8 @@
     <ean>08593085165303</ean>
     <sku>KAPSA-001-STR</sku>
     <stock>40</stock>
-    <price_with_vat>790.00</price_with_vat>
-    <price_without_vat>652,89</price_without_vat>
+    <price_with_vat>690.00</price_with_vat>
+    <price_without_vat>570.25</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -59,8 +59,8 @@
     <ean>08593085165358</ean>
     <sku>KAPSA-001-CER</sku>
     <stock>10</stock>
-    <price_with_vat>790.00</price_with_vat>
-    <price_without_vat>652,89</price_without_vat>
+    <price_with_vat>690.00</price_with_vat>
+    <price_without_vat>570.25</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -68,8 +68,8 @@
     <ean>08593085165341</ean>
     <sku>KAPSA-001-ZEL</sku>
     <stock>10</stock>
-    <price_with_vat>790.00</price_with_vat>
-    <price_without_vat>652,89</price_without_vat>
+    <price_with_vat>690.00</price_with_vat>
+    <price_without_vat>570.25</price_without_vat>
     <vat>21</vat>
   </product>
    <product>
@@ -78,7 +78,7 @@
     <sku>KAPSA-KL-VIC</sku>
     <stock>0</stock>
     <price_with_vat>590.00</price_with_vat>
-    <price_without_vat>487,60</price_without_vat>
+    <price_without_vat>487.60</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -87,7 +87,7 @@
     <sku>KAPSA-KL-ZLA</sku>
     <stock>4</stock>
     <price_with_vat>590.00</price_with_vat>
-    <price_without_vat>487,60</price_without_vat>
+    <price_without_vat>487.60</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -96,7 +96,7 @@
     <sku>KAPSA-KL-ZEL</sku>
     <stock>0</stock>
     <price_with_vat>590.00</price_with_vat>
-    <price_without_vat>487,60</price_without_vat>
+    <price_without_vat>487.60</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -105,7 +105,7 @@
     <sku>KAPSA-KL-MOD</sku>
     <stock>0</stock>
     <price_with_vat>590.00</price_with_vat>
-    <price_without_vat>487,60</price_without_vat>
+    <price_without_vat>487.60</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -114,7 +114,7 @@
     <sku>KAPSA-KL-CRN</sku>
     <stock>0</stock>
     <price_with_vat>590.00</price_with_vat>
-    <price_without_vat>487,60</price_without_vat>
+    <price_without_vat>487.60</price_without_vat>
     <vat>21</vat>
   </product>
   <product>
@@ -123,7 +123,7 @@
     <sku>KAPSA-KL-CER</sku>
     <stock>0</stock>
     <price_with_vat>590.00</price_with_vat>
-    <price_without_vat>487,60</price_without_vat>
+    <price_without_vat>487.60</price_without_vat>
     <vat>21</vat>
   </product> 
 </products>
